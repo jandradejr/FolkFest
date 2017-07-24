@@ -415,7 +415,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<center>\n    <br><br>\n<div id=\"zozi_advance_activity_214611\" class=\"zozi-advance-button-container\"><a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" class=\"zozi-advance-button-large\" target=\"_blank\" style=\"background-color:{};\">Reserve my space</a></div>\n</center>",
+          "_customHTML": "<center>\n    <br><br>\n<div id=\"zozi_advance_activity_214611\" class=\"zozi-advance-button-container\"><a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" class=\"zozi-advance-button-large\" target=\"_blank\" style=\"background-color:{#124a8c};\">Reserve my space</a></div>\n</center>",
           "_customCSS": "",
           "alias": "code-editor",
           "_tags": [
