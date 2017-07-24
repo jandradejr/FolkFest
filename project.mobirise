@@ -431,6 +431,7 @@
             "Theme"
           ],
           "_name": "content7",
+          "_customCSS": "",
           "_anchor": "content7-6",
           "_params": {
             "paddingTop": 1,
@@ -439,8 +440,7 @@
           },
           "text1": "<p><b>GET ON DECK for the Newport Folk Fest!</b></p><p>Join us and our friends aboard our PRIVATE vessel for an intimate folk festival float party. We plan to anchor just offshore of Fort Adams and listen all day, swim, play, relax and enjoy light snacks.</p><p><br></p><p>We hope you'll bring along your water toys and enjoy swimming off our two back decks.&nbsp;</p><p><br></p><p>Our launch service can &nbsp;pickup at three locations, so you can beat the traffic and get decent parking, too.&nbsp;</p>",
           "text2": "<p><b>Ships Rules:</b></p><p><b>1.</b> No weapons, drugs, or bad behaviour (as determined by the captain or crew). &nbsp;</p><p><b>2.</b> Clean boat shoes only, or even better, no shoes!&nbsp;</p><p><b>3.</b> BYO Beverages (we'll have plenty of water though and regular ice runs). No large, hard coolers ( small personal coolers acceptable)</p><p><b>4.</b> You're responsible for your own weather related items; sunscreen, umbrellas, light rainjackets, etc.&nbsp;</p><p><b>5.</b> There is a day-head onboard for guests, and a pleasant salon ( no wet clothes or dripping people in the salon please.&nbsp;</p><p><br></p>",
-          "text3": "<p><br></p><p><b>6.</b> All other cabins, sail lockers, engine rooms etc. are off-limits.&nbsp;</p><p><b>7. Safety first. </b>Our crew will be sober and helpful, as well as watchful. The comfort and safety of our ALL of our guests is our first priority.</p><p><b>8</b>. Let us know your preferred pickup location when you make your booking:</p><p><b>Long Wharf, Perry Mill Wharf, or Fort Adams,</b> Pay-parking is nearby all locations. </p><p><b>9.</b> Sorry, no rafting of other vessels with our boat this weekend. This event is strictly for guests booked with marinemotion®</p>",
-          "_customCSS": ""
+          "text3": "<p><br></p><p><b>6.</b> All other cabins, sail lockers, engine rooms etc. are off-limits.&nbsp;</p><p><b>7. Safety first. </b>Our crew will be sober and helpful, as well as watchful. The comfort and safety of our ALL of our guests is our first priority.</p><p><b>8</b>. Let us know your preferred pickup location when you make your booking:</p><p><b>Long Wharf, Perry Mill Wharf, or Fort Adams,</b> Pay-parking is nearby all locations. </p><p><b>9.</b> Sorry, no rafting of other vessels with our boat this weekend. This event is strictly for guests booked with marinemotion®</p>"
         },
         {
           "_tags": [
@@ -527,9 +527,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-a",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-a"
         }
       ]
     }
