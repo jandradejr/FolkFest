@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -123,8 +123,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charter Chaton</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://marinemotionri.com/\" target=\"_blank\">visit marinemotionRI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Subscribe</a></li>"
         },
         {
           "_name": "header1",
@@ -168,7 +168,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 marinemotion, inc.&nbsp;"
         }
       ]
     },
@@ -179,6 +179,102 @@
         "header_custom": "<script src=https://a.zozi.com/assets/widgets/bookit.js></script>"
       },
       "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "calendar-check-o",
+              "family": "FontAwesome",
+              "link": "Chaton_Booking.html",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charter Chaton</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://marinemotionri.com/\" target=\"_blank\">visit marinemotionRI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Subscribe</a></li>"
+        },
         {
           "_tags": [
             "Theme"
@@ -245,6 +341,26 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 marinemotion, inc.&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-4",
           "_params": {
@@ -291,7 +407,7 @@
             }
           },
           "title": "Join us on the water this weekend for the Newport Folk Festival",
-          "text": "Book 1, 2 or all 3 days &nbsp;druing the festival and &nbsp;skip the crowds and parking nightmares while enjoying great tunes, swimming, light snacks and &nbsp;great friends ... all aboard our spacious 48' sailing catamaran.&nbsp;",
+          "text": "Book 1, 2 or all 3 days &nbsp;druing the festival and skip the crowds and parking nightmares while enjoying great tunes, swimming, light snacks and &nbsp;great friends ... all aboard our spacious 48' sailing catamaran.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -319,7 +435,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Join us and our friends aboard our PRIVATE vessel for an intimate folk festival float party. We plan to anchor just offshore of Fort Adams and listen all day, swim, play, relax and enjoy light snacks.</p><p><br></p><p>We hope you'll bring along your water toys and enjoy swimming off our two back decks.&nbsp;</p><p><br></p><p>Our launch service can &nbsp;pickup at three locations, so you can beat the traffic and get decent parking, too.&nbsp;</p>",
+          "text1": "<p><b>GET ON DECK for the Newport Folk Fest!</b></p><p>Join us and our friends aboard our PRIVATE vessel for an intimate folk festival float party. We plan to anchor just offshore of Fort Adams and listen all day, swim, play, relax and enjoy light snacks.</p><p><br></p><p>We hope you'll bring along your water toys and enjoy swimming off our two back decks.&nbsp;</p><p><br></p><p>Our launch service can &nbsp;pickup at three locations, so you can beat the traffic and get decent parking, too.&nbsp;</p>",
           "text2": "<p><b>Ships Rules:</b></p><p><b>1.</b> No weapons, drugs, or bad behaviour (as determined by the captain or crew). &nbsp;</p><p><b>2.</b> Clean boat shoes only, or even better, no shoes!&nbsp;</p><p><b>3.</b> BYO Beverages (we'll have plenty of water though and regular ice runs). No large, hard coolers ( small personal coolers acceptable)</p><p><b>4.</b> You're responsible for your own weather related items; sunscreen, umbrellas, light rainjackets, etc.&nbsp;</p><p><b>5.</b> There is a day-head onboard for guests, and a pleasant salon ( no wet clothes or dripping people in the salon please.&nbsp;</p><p><br></p>",
           "text3": "<p><br></p><p><b>6.</b> All other cabins, sail lockers, engine rooms etc are off limits.&nbsp;</p><p><b>7. Safety first. </b>Our crew will be sober and helpful, as well as watchful. The comfort and safety of our ALL of our guest is our first priority.</p><p><b>8</b>. Let us know your preferred pickup location when you make your booking:</p><p>Long Wharf, Perry Mill Wharf, or Fort Adams, Pay Parking is nearby all locations. </p><p><b>9.</b> Sorry, no rafting of other vessels with our boat this weekend. This even is strictly for guests booked with marinemotion®</p>",
           "_customCSS": ""
@@ -387,6 +503,19 @@
           "allItem": "All"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Left three images courtesy of Ben Jacobsen Photography</blockquote>"
+        },
+        {
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<center>\n    <br><br>\n<div id=\"zozi_advance_activity_214611\" class=\"zozi-advance-button-container\"><a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" class=\"zozi-advance-button-large\" target=\"_blank\" style=\"background-color:{};\">Reserve my space</a></div>\n</center>",
@@ -396,7 +525,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-a"
+          "_anchor": "custom-html-a",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }
