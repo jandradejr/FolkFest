@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 15,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Get onboard Chaton</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://marinemotionri.com/\" target=\"_blank\">visit marinemotionRI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.marinemotion.com/#subscribeModal\" target=\"_blank\">Subscribe</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/pg/marinemotionnewport\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp; &nbsp;marinemotionRI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.marinemotion.com/#subscribeModal\" target=\"_blank\">Subscribe</a></li>"
         },
         {
           "_name": "header1",
@@ -275,7 +275,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Get onboard Chaton</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://marinemotionri.com/\" target=\"_blank\">visit marinemotionRI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.marinemotion.com/#subscribeModal\" target=\"_blank\">Subscribe</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/pg/marinemotionnewport\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp; &nbsp;marinemotionRI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.marinemotion.com/#subscribeModal\" target=\"_blank\">Subscribe</a></li>"
         },
         {
           "_tags": [
@@ -338,6 +338,63 @@
           "title": "No Newport Folk Festival tickets?<br>",
           "text": "Spend the day aboard listening to great tunes, swimming, and enjoying your beverages and light snacks on our private yacht. <br><br>Enjoy the best seat on the harbor and an awesome way to beat the heat, the crowds, and the parking madness.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"Chaton Booking.html#custom-html-7\" data-toolbar=\"-mbrBtnMove\">from $125 pp</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-c",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Questions: ASK US",
+          "subtitle": "Please contact us about this event using this web form.",
+          "form": {
+            "action": "rebecca@marinemotion.com",
+            "alerts": {
+              "success": "Thanks for your inquiry. Well get right back to you!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_tags": [
@@ -409,7 +466,7 @@
             }
           },
           "title": "Join us on the water this weekend for the Newport Folk Festival",
-          "text": "Book 1, 2 or all 3 days &nbsp;druing the festival and skip the crowds and parking nightmares while enjoying great tunes, swimming, light snacks and &nbsp;great friends ... all aboard our spacious 48' sailing catamaran.&nbsp;",
+          "text": "Book 1, 2 or all 3 days during the festival. Skip the crowds and parking nightmares while enjoying great tunes, swimming, light snacks and &nbsp;great friends ... all aboard our spacious 48' sailing catamaran.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -438,9 +495,9 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>GET ON DECK for the Newport Folk Fest!</b></p><p>Join us and our friends aboard our PRIVATE vessel for an intimate folk festival float party. We plan to anchor just offshore of Fort Adams and listen all day, swim, play, relax and enjoy light snacks.</p><p><br></p><p>We hope you'll bring along your water toys and enjoy swimming off our two back decks.&nbsp;</p><p><br></p><p>Our launch service can &nbsp;pickup at three locations, so you can beat the traffic and get decent parking, too.&nbsp;</p>",
-          "text2": "<p><b>Ships Rules:</b></p><p><b>1.</b> No weapons, drugs, or bad behaviour (as determined by the captain or crew). &nbsp;</p><p><b>2.</b> Clean boat shoes only, or even better, no shoes!&nbsp;</p><p><b>3.</b> BYO Beverages (we'll have plenty of water though and regular ice runs). No large, hard coolers ( small personal coolers acceptable)</p><p><b>4.</b> You're responsible for your own weather related items; sunscreen, umbrellas, light rainjackets, etc.&nbsp;</p><p><b>5.</b> There is a day-head onboard for guests, and a pleasant salon ( no wet clothes or dripping people in the salon please.&nbsp;</p><p><br></p>",
-          "text3": "<p><br></p><p><b>6.</b> All other cabins, sail lockers, engine rooms etc. are off-limits.&nbsp;</p><p><b>7. Safety first. </b>Our crew will be sober and helpful, as well as watchful. The comfort and safety of our ALL of our guests is our first priority.</p><p><b>8</b>. Let us know your preferred pickup location when you make your booking:</p><p><b>Long Wharf, Perry Mill Wharf, or Fort Adams,</b> Pay-parking is nearby all locations. </p><p><b>9.</b> Sorry, no rafting of other vessels with our boat this weekend. This event is strictly for guests booked with marinemotion®</p>"
+          "text1": "<p><b>GET ON DECK for the Newport Folk Fest!</b></p><p><b><br></b></p><p>Join us aboard our PRIVATE vessel for an intimate folk festival float party. We plan to anchor just offshore of Fort Adams and listen all day, swim, play, relax and enjoy light snacks.</p><p><br></p><p>We hope you'll bring along your water toys and enjoy swimming off our two back decks.&nbsp;</p><p><br></p><p>Our launch service can pickup at three locations, so you can beat the traffic and get decent parking, too.&nbsp;</p>",
+          "text2": "<p><b>Ships Rules:</b></p><p><b>1.</b> No weapons, drugs, or bad behaviour (as determined by the captain or crew). &nbsp;</p><p><b>2.</b> Clean boat shoes only, or even better, no shoes!&nbsp;</p><p><b>3.</b> BYO Beverages (we'll have plenty of water though and regular ice runs). No large, hard coolers (small personal soft coolers acceptable)</p><p><b>4.</b> You're responsible for your own weather related and personal items; sunscreen, umbrellas, light rainjackets, medications, etc.&nbsp;</p><p><b>5.</b> There is a day-head onboard for guests, and a pleasant salon ( no wet clothes or dripping people in the salon please.&nbsp;</p><p><br></p>",
+          "text3": "<p><br></p><p><b>6.</b> All other cabins, sail lockers, engine rooms etc. are off-limits.&nbsp;</p><p><b>7. Safety first. </b>Our crew will be sober and helpful, as well as watchful. The comfort and safety of our ALL of our guests is our first priority.</p><p><b>8</b>. Let us know your preferred pickup location when you make your booking:</p><p><b>Long Wharf, Perry Mill Wharf, or Fort Adams,</b> Pay-parking is nearby all locations. </p><p><b>9.</b> Sorry, no rafting of other vessels with our boat this weekend. This event is strictly for guests <a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" target=\"_blank\">booked with marinemotion®</a></p>"
         },
         {
           "_tags": [
