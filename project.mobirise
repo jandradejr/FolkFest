@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -343,63 +343,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_anchor": "form1-c",
-          "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "Questions: ASK US",
-          "subtitle": "Please contact us about this event using this web form.",
-          "form": {
-            "action": "rebecca@marinemotion.com",
-            "alerts": {
-              "success": "Thanks for your inquiry. Well get right back to you!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-2",
           "_params": {
@@ -577,7 +520,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<center>\n    <br><br>\n<div id=\"zozi_advance_activity_214611\" class=\"zozi-advance-button-container\"><a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" class=\"zozi-advance-button-large\" target=\"_blank\" style=\"background-color:{};\">Reserve my space</a></div>\n</center>",
+          "_customHTML": "<center>\n    <br><br>\n<div id=\"zozi_advance_activity_214611\" class=\"zozi-advance-button-container\"><a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" class=\"zozi-advance-button-large\" target=\"_blank\" style=\"background-color:{};\">Reserve my space</a></div>\n</center>\n  <br><br>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
