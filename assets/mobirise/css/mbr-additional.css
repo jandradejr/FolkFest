@@ -819,3 +819,9 @@ h6,
 #custom-html-a .my-image {
   width: 100%;
 }
+#custom-html-m {
+  /* Type valid CSS here */
+}
+#custom-html-m .my-image {
+  width: 100%;
+}

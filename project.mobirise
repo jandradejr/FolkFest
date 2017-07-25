@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 21,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -444,7 +444,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<center>\n    <br><br>\n<div id=\"zozi_advance_activity_214611\" class=\"zozi-advance-button-container\"><a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" class=\"zozi-advance-button-large\" target=\"_blank\" style=\"background-color:{#124a8c};\">Reserve my space</a></div>\n</center>",
+          "_customHTML": "<center>\n    <br><br>\n<div id=\"zozi_advance_activity_214611\" class=\"zozi-advance-button-container\"><a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" class=\"zozi-advance-button-large\" target=\"_blank\" style=\"background-color:{#124a8c};\">Reserve my space</a></div>\n</center>\n <br><br>",
           "_customCSS": "",
           "alias": "code-editor",
           "_tags": [
@@ -584,12 +584,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Left three images courtesy of Ben Jacobsen Photography</blockquote>"
+          "text": "<blockquote>Top Left three images courtesy of <a href=\"http://www.benjacobsenphoto.com\" target=\"_blank\">Ben Jacobsen Photography</a></blockquote>"
         },
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<center>\n    <br><br>\n<div id=\"zozi_advance_activity_214611\" class=\"zozi-advance-button-container\"><a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" class=\"zozi-advance-button-large\" target=\"_blank\" style=\"background-color:{};\">Reserve my space</a></div>\n</center>\n  <br><br>",
+          "_customHTML": "<center>\n    <br><br>\n<div id=\"zozi_advance_activity_214611\" class=\"zozi-advance-button-container\"><a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" class=\"zozi-advance-button-large\" target=\"_blank\" style=\"background-color:{};\">Reserve my space</a></div>\n</center>\n  <br><br>\n <br><br>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -680,6 +680,20 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<br>\n<center>\n<img src=\"http://idn.sayitright.com/user/sayitright/s3/https%3A%2F%2Ffdn.sayitright.com%2Fsites%2F51fe326d9d1e88274000000f%2Flogo%3Fversion%3D1488728635/date/1488728635/format.png\">\n</center>\n<br>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-m",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }
