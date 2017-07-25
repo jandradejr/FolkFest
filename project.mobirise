@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 21,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -98,15 +98,15 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#76cad1",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#475577",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -205,13 +205,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#50bbc4"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#6bc6cd!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#76cad1"
             },
             ".bg-color.transparent .link": {
               "color": "#475577",
@@ -243,25 +243,27 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#76cad1",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#475577",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/chaton-moulille-boat-name.svg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -270,8 +272,7 @@
               "family": "FontAwesome",
               "link": "Chaton_Booking.html",
               "size": 0,
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Get onboard Chaton</a>",
@@ -413,6 +414,34 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Chaton_Booking.html#custom-html-a\" data-toolbar=\"-mbrBtnMove\">GET ONBOARD</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/chaton-moulille-boat-name.svg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<center>\n    <br><br>\n<div id=\"zozi_advance_activity_214611\" class=\"zozi-advance-button-container\"><a href=\"https://a.zozi.com/#/express/marinemotionwa/products/214611?clearCart=true\" class=\"zozi-advance-button-large\" target=\"_blank\" style=\"background-color:{#124a8c};\">Reserve my space</a></div>\n</center>",
@@ -436,7 +465,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
           "text1": "<p><b>GET ON DECK for the Newport Folk Fest!</b></p><p><b><br></b></p><p>Join us aboard our PRIVATE vessel for an intimate folk festival float party. We plan to anchor just offshore of Fort Adams and listen all day, swim, play, relax and enjoy light snacks.</p><p><br></p><p>We hope you'll bring along your water toys and enjoy swimming off our two back decks.&nbsp;</p><p><br></p><p>Our launch service can pickup at three locations, so you can beat the traffic and get decent parking, too.&nbsp;</p>",
           "text2": "<p><b>Ships Rules:</b></p><p><b>1.</b> No weapons, drugs, or bad behaviour (as determined by the captain or crew). &nbsp;</p><p><b>2.</b> Clean boat shoes only, or even better, no shoes!&nbsp;</p><p><b>3.</b> BYO Beverages (we'll have plenty of water though and regular ice runs). No large, hard coolers (small personal soft coolers acceptable)</p><p><b>4.</b> You're responsible for your own weather related and personal items; sunscreen, umbrellas, light rainjackets, medications, etc.&nbsp;</p><p><b>5.</b> There is a day-head onboard for guests, and a pleasant salon ( no wet clothes or dripping people in the salon please.&nbsp;</p><p><br></p>",
@@ -581,7 +610,7 @@
           },
           "title1": "Don't hesitate to contact us",
           "subTitle1": "We're ready to help",
-          "text1": "Phone: +1 (401) 619.1976<br> Email: editor@marinemotion.com",
+          "text1": "Phone: +1 (401) 619.1976<br>marinemotion, inc<br>559 Thames St • Newport RI 02840<br> Email: editor@marinemotion.com",
           "form": {
             "action": "editor@marinemotion.com",
             "alerts": {
