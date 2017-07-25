@@ -515,10 +515,50 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/newport-folk-festival-2000x1212-800x484.jpg",
-                "image": "@PROJECT_PATH@/assets/images/newport-folk-festival-2000x1212.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tableset-2000x1331-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tableset-2000x1331.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/550px-atdock-1400x1865-800x1065.jpg",
+                "image": "@PROJECT_PATH@/assets/images/550px-atdock-1400x1865.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 0,
